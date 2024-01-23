@@ -1,60 +1,21 @@
-## Hello, World
 
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I'm Dimitris, a Frontend Engineer from Greece, also dabbling a bit in React, TypeScript, PHP, SQL and Java. I am passionate about open source and enjoy learning new technologies. The content below is automatically updated via <a href="https://github.com/tw93/dkytr/actions" target="_blank">Actions</a>:
+<h1 align="center"><img src="https://media.giphy.com/media/xT9Igoe79R16unU7cc/giphy.gif" width="60"></img>, I'm Dimitris</h1>
+<h3 align="center">I'm a passionate developer from Greece. I'm currently diving in React, Java, Typescript, PHP, SQL and Sass. I'm always excited about learning new technologies and expanding my knowledge.</h3>
 
-<table width="960px">
-<tr>
-<td valign="top" width="50%">
-
-#### 🏊‍♂️ Weekly Development Breakdown
-
-![light](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats.svg#gh-light-mode-only)
-
-![dark](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only)
-
-</td>
-<td valign="top" width="50%">
-
-#### 🪂 <a href="https://github.com/tw93/tw93/blob/master/releases.md" target="_blank">Product Releases</a>
-
-<!-- recent_releases starts -->
-* <a href='https://github.com/tw93/MiaoYan/releases/tag/V1.14.0' target='_blank'>MiaoYan V1.14 More Accurate 🍇</a> - 2023-12-12
-* <a href='https://github.com/tw93/weekly/releases/tag/V0.5.0' target='_blank'>weekly V0.5 Supported Search</a> - 2023-12-09
-* <a href='https://github.com/tw93/Pake/releases/tag/V2.3.5' target='_blank'>Pake V2.3.5 More Rigorous</a> - 2023-11-18
-* <a href='https://github.com/tw93/Maple/releases/tag/V1.10' target='_blank'>Maple V1.10 More Comprehensive</a> - 2023-09-13
-* <a href='https://github.com/tw93/tw93.github.io/releases/tag/V0.3.0' target='_blank'>tw93.github.io 翻新一下博客</a> - 2022-11-08
-<!-- recent_releases ends -->
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-#### 🤾‍♂️ <a href="https://tw93.fun" target="_blank">Recent Blog</a>
-
-<!-- blog starts -->
-* <a href='https://tw93.fun/2024-01-12/open.html' target='_blank'>我的开源成长之旅</a> - 2024-01-12
-* <a href='https://tw93.fun/2023-12-30/30.html' target='_blank'>我居然 30 岁了</a> - 2023-12-30
-* <a href='https://tw93.fun/2023-12-26/fe.html' target='_blank'>不喜欢前端娱乐圈这种氛围</a> - 2023-12-26
-* <a href='https://tw93.fun/2023-12-17/jp.html' target='_blank'>日本东京&大阪游记</a> - 2023-12-17
-* <a href='https://tw93.fun/2023-10-25/new-fe.html' target='_blank'>新一代前端发展的困境与破局</a> - 2023-10-25
-<!-- blog ends -->
-
-</td>
-<td valign="top" width="50%">
-
-#### 🩴 <a href="https://weekly.tw93.fun" target="_blank">Trend Weekly</a>
-
-<!-- weekly starts -->
-
-* <a href='https://weekly.tw93.fun/posts/162-%E6%99%B4%E7%A9%BA%E5%A1%94%E7%BE%8E/' target='_blank'>第162期 - 晴空塔美</a> - 2024-01-21
-* <a href='https://weekly.tw93.fun/posts/161-%E6%9E%81%E7%AE%80%E5%8F%B0%E7%81%AF/' target='_blank'>第161期 - 极简台灯</a> - 2024-01-14
-* <a href='https://weekly.tw93.fun/posts/160-%E7%88%B1%E5%90%83%E7%82%92%E9%A5%AD/' target='_blank'>第160期 - 爱吃炒饭</a> - 2024-01-08
-* <a href='https://weekly.tw93.fun/posts/159-%E8%87%AA%E5%88%B6%E5%92%96%E5%95%A1/' target='_blank'>第159期 - 自制咖啡</a> - 2024-01-02
-* <a href='https://weekly.tw93.fun/posts/158-%E5%9C%A3%E8%AF%9E%E6%B2%99%E6%8B%89/' target='_blank'>第158期 - 圣诞沙拉</a> - 2023-12-25
-<!-- weekly ends -->
-
-</td>
-</tr>
-
-</table>
+- ---
+```javascript
+const dimitris = {
+  programming: {
+    languages: ['javascript', 'typescript', 'java', 'php'],
+    frontend: ['html', 'css', 'react', 'jquery', 'bootstrap', 'sass'],
+    database: ['sql', 'mongodb'],
+    wantToLearn: ['node', 'express', 'vue', 'python']
+  },
+  interests: ['food', 'basketball', 'photography', 'gaming', 'books', 'music'],
+  social: {
+    instagram: 'kutr_dim', 
+    linkedin: 'dkytr'
+  }
+};
+```
+<img src="https://myreadme.vercel.app/api/embed/dimitriskd?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme"/>
