@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @dimitriskd
-- 👀 I’m interested in becoming a Full-Stack developer
-- 🌱 I’m currently learning HTML, CSS, PHP, JavaScript and React
-- 💞️ I’m looking to collaborate on nothing rn.
-- 📫 How to reach me ...
+<h1 align="center"><img src="https://media.giphy.com/media/xT9Igoe79R16unU7cc/giphy.gif" width="60"></img>, I'm Dimitris</h1>
+<h3 align="center">I'm a passionate developer from Greece. I'm currently diving in React, Java, Typescript, PHP, SQL and Sass. I'm always excited about learning new technologies and expanding my knowledge.</h3>
 
-<!---
-dimitriskd/dimitriskd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ---
+```javascript
+const dimitris = {
+  programming: {
+    languages: ['javascript', 'typescript', 'java', 'php'],
+    frontend: ['html', 'css', 'react', 'jquery', 'bootstrap', 'sass'],
+    database: ['sql', 'mongodb'],
+    wantToLearn: ['node', 'express', 'vue', 'python']
+  },
+  interests: ['food', 'basketball', 'photography', 'gaming', 'books', 'music'],
+  social: {
+    instagram: 'kutr_dim',
+    linkedin: 'dkytr'
+  }
+};
+```
+<img src="https://myreadme.vercel.app/api/embed/dimitriskd?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme"/>
