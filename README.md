@@ -1,3 +1,4 @@
+
 <h1 align="center"><img src="https://media.giphy.com/media/xT9Igoe79R16unU7cc/giphy.gif" width="60"></img>, I'm Dimitris</h1>
 <h3 align="center">I'm a passionate developer from Greece. I'm currently diving in React, Java, Typescript, PHP, SQL and Sass. I'm always excited about learning new technologies and expanding my knowledge.</h3>
 
@@ -12,7 +13,7 @@ const dimitris = {
   },
   interests: ['food', 'basketball', 'photography', 'gaming', 'books', 'music'],
   social: {
-    instagram: 'kutr_dim',
+    instagram: 'kutr_dim', 
     linkedin: 'dkytr'
   }
 };
