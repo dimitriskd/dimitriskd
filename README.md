@@ -12,10 +12,6 @@ const dimitris = {
     wantToLearn: ['node', 'express', 'vue', 'python']
   },
   interests: ['food', 'basketball', 'photography', 'gaming', 'books', 'music'],
-  social: {
-    instagram: 'kutr_dim', 
-    linkedin: 'dkytr'
-  }
 };
 ```
 <img src="https://myreadme.vercel.app/api/embed/dimitriskd?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme"/>
