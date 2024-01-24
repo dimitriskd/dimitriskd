@@ -14,4 +14,6 @@ const dimitris = {
   interests: ['food', 'basketball', 'photography', 'gaming', 'books', 'music'],
 };
 ```
-<img src="https://myreadme.vercel.app/api/embed/dimitriskd?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme"/>
+![dimitriskd's Stats](https://github-readme-stats.vercel.app/api?username=dimitriskd&theme=react&show_icons=true&hide_border=true&count_private=true)
+![dimitriskd's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dimitriskd&theme=react&hide_border=true)
+![dimitriskd's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitriskd&theme=react&show_icons=true&hide_border=true&layout=compact)
