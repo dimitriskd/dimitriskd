@@ -12,6 +12,7 @@ const dimitris = {
     wantToLearn: ['node', 'express', 'vue', 'python']
   },
   interests: ['food', 'basketball', 'photography', 'gaming', 'books', 'music'],
+  email: 'dimitriskdev@gmail.com'
 };
 ```
 ---
