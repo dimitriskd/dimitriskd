@@ -7,7 +7,7 @@
 const dimitris = {
   programming: {
     languages: ['javascript', 'typescript', 'java', 'php'],
-    frontend: ['html', 'css', 'react', 'jquery', 'bootstrap', 'sass'],
+    frontend: ['html', 'css', 'react', 'jquery', 'bootstrap', 'tailwind'],
     database: ['sql', 'mongodb'],
     wantToLearn: ['node', 'express', 'vue', 'python']
   },
