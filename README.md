@@ -6,8 +6,8 @@
 ```javascript
 const dimitris = {
   programming: {
-    languages: ['javascript', 'typescript', 'java', 'php'],
-    frontend: ['html', 'css', 'react', 'jquery', 'bootstrap', 'tailwind'],
+    languages: ['javascript', 'typescript', 'java'],
+    frontend: ['html', 'css', 'react', 'angular', 'bootstrap', 'tailwind'],
     database: ['sql', 'mongodb'],
     wantToLearn: ['node', 'express', 'vue', 'python']
   },
